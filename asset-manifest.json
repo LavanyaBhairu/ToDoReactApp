@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/www.LavanyaBhairu.github.io/ToDoReactApp/static/css/main.073c9b0a.css",
+    "main.js": "/www.LavanyaBhairu.github.io/ToDoReactApp/static/js/main.25aa417a.js",
+    "static/js/787.b8fa26a9.chunk.js": "/www.LavanyaBhairu.github.io/ToDoReactApp/static/js/787.b8fa26a9.chunk.js",
+    "index.html": "/www.LavanyaBhairu.github.io/ToDoReactApp/index.html",
+    "main.073c9b0a.css.map": "/www.LavanyaBhairu.github.io/ToDoReactApp/static/css/main.073c9b0a.css.map",
+    "main.25aa417a.js.map": "/www.LavanyaBhairu.github.io/ToDoReactApp/static/js/main.25aa417a.js.map",
+    "787.b8fa26a9.chunk.js.map": "/www.LavanyaBhairu.github.io/ToDoReactApp/static/js/787.b8fa26a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.25aa417a.js"
+  ]
+}
